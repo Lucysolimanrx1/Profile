@@ -1,0 +1,73 @@
+#myPhoto {
+   width: 500px;
+   height: auto; 
+}
+body {
+    background-color: black;
+}
+    
+.header {
+    text-align: center;
+    font-style: italic;
+    color: #eee9e5
+}
+.header1 {
+    text-align: center;
+    font-style: italic;
+    color: #eee9e5
+}
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+.list {
+    font-size: 15px;
+    color: #F0FFFF;
+
+}
+#gitHub {
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+}
+li {
+    color: #F0FFFF;
+}
+.footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#4169E1;
+    color: black;
+    text-align: center;
+    padding: 0px 0px 5px 0px;
+ }
+
+.icon1 {
+    height: 25px;
+    width: 25px
+}
+.icon2 {
+    height: 25px;
+    width: 25px
+}
+.icon3 {
+    height: 25px;
+    width: 25px
+}
+.icon4 {
+    height: 25px;
+    width: 25px
+}
+.icon5 {
+    height: 25px;
+    width: 25px
+}
+
+.env {
+    width: 25px;
+    height: 15px
+}
